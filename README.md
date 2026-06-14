@@ -3,3 +3,5 @@ You just need to change the "DATA_ROOT" to your datasets address in the "config"
 Also if you don't want to retrain the model, I have pretrain pth files, and you can uncompress "dist.zip" and run "ThyroidAnalysis.exe" file. Please make sure that the two pth files 
 "best_classifier.pth" and “best_unet.pth" are in the "checkpoints" folder and make sure the "checkpoints" folder is in the same directory as "ThyroidAnalysis.exe".
 there is the download address:
+  通过网盘分享的文件：dist.zip
+  链接: https://pan.baidu.com/s/1Xe8q_yZkFP0_exsp7UK3KQ?pwd=5whr 提取码: 5whr
